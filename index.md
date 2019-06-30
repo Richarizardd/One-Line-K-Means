@@ -3,7 +3,8 @@
 
 ### Image
 
-![k-means](https://github.com/Richarizardd/One-Line-K-Means/blob/master/k-means.png)
+![Kmeans](https://github.com/Richarizardd/One-Line-K-Means/blob/master/kmeans.png)
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
