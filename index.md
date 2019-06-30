@@ -3,7 +3,8 @@
 
 ### Image
 
-![Kmeans](https://github.com/Richarizardd/One-Line-K-Means/blob/master/kmeans.png)
+![Kmeans](https://raw.githubusercontent.com/Richarizardd/One-Line-K-Means/master/kmeans.png)
+
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 
