@@ -3,7 +3,7 @@
 
 ### Image
 
-[k-means](https://github.com/Richarizardd/One-Line-K-Means/blob/master/k-means.png)
+![k-means](https://github.com/Richarizardd/One-Line-K-Means/blob/master/k-means.png)
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
